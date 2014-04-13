@@ -1,0 +1,75 @@
+img{vertical-align:middle}
+.msgss{background:#dff9d7;border:1px solid #5ec73e;font-size:small;padding:3px 5px}
+.notifnor{background-color:#446387;color:#FFF;margin-right:2px;padding:0 3px}
+.notifact{background-color:#C00;color:#FFF;margin-right:2px;padding:0 3px}
+body,img,form,p{border:none;margin:0;padding:0}
+body,input,select{color:#333;font-family:sans-serif}
+.clr2{color:#888!important}
+a{text-decoration:none;color:#40006e}
+a:hover{color:#FFF;text-decoration:none;background-color:#9f85bd}
+.cleft{clear:both;display:block;height:1px}
+.nobrd{border:none!important}
+.nofound{background-color:#FFC;border:1px solid #FC0;color:red;font-size:small;margin-bottom:5px;padding:2px 3px}
+.header{padding:5px;color:#FFF;background-color:#612885}
+.header a{color:#FFF;}
+#mmenu{text-align:right;padding-top:2px}
+.amenu{color:#FFF;font-size:small;padding:0 2px}
+.act,.amenu:hover{background-color:#57a2ea}
+#frmlogin{padding:5px 5px 8px}
+#frmlogin input{margin:0 0 5px}
+.btnsubmit{border:none;color:#FFF;font-family:Tahoma;font-weight:700;margin-bottom:2px;background-color:#775e97;padding:3px}
+.profile{background-color:#ecf1f6;padding:5px 5px 0}
+.contain{padding:0}
+.paging{border-bottom:1px solid #c6d2e0;clear:both;font-size:small;padding:3px 5px}
+.bpaging{white-space:normal;border-top:1px solid #c6d2e0;padding:3px 5px}
+.bpaging a{margin-right:10px}
+.f,.feedtpl{border-bottom:1px solid #efefef;padding:5px}
+.f2{border-top:1px solid #efefef;padding:3px 0}
+.menu{border-bottom:1px solid #efefef;clear:left;height:1%;padding:5px}
+.txt01,.grey{color:#888;font-size:small;white-space:normal}
+.txt02{white-space:normal}
+.txt04{background-color:#c8e3ff;padding:3px}
+.lnk2,.lnkdel{background-color:#edf0f5;color:#777;font-size:11px;padding:0 3px}
+.lnk3{background-color:#C8E3FF;color:#777;font-size:11px;padding:0 3px}
+.cont01{padding:2px 4px}
+.bavatar{float:left;padding-right:8px}
+.bavatar2{padding-right:8px}
+.subnav{background-color:#fff;border-top-color:#bbb;border-top-style:solid;border-top-width:thin;clear:left;color:#999;padding-bottom:2px;padding-top:2px}
+.subitm{border-bottom:1px dashed #ccc;vertical-align:middle;padding:1px 0 2px}
+.subitmcur{background-color:#FFF;vertical-align:middle;padding:1px 0}
+.subitmcur a{color:#444;font-weight:700}
+.head2{border-bottom-color:#999;border-bottom-style:solid;border-bottom-width:thin;font-weight:700;margin-top:3px}
+.photodetail{text-align:center;padding:4px}
+#footer{line-height:18px;padding:5px 0 5px 6px}
+#footer a.curnav{color:#333;font-weight:700}
+p,#info p{margin-top:2px}
+#contentbinhluan .txt02,#contentbinhluan .txt03{display:none}
+.actlink .grey span{border-bottom:1px dotted #999}
+.rowcom{border-top:1px solid #ccc}
+.comtnum{font-size:small;padding-top:5px}
+.snav2{background-color:#dfdfdf;padding-bottom:2px;border-top:1px solid #f4f4f4;border-bottom:1px solid #bbb}
+.inv{color:#666;padding:2px 4px}
+.snavselect,.snav2 a:hover{color:#333;background-color:#fff}
+.snavselect{font-weight:700}
+.cont0{padding:2px 4px 3px}
+.iptw1{width:100%}
+.iptcomt{width:100%;padding-right:5px}
+.boxhili01{border-top:1px solid #cfcdbe;border-bottom:1px solid #cfcdbe;background-color:#fffed2}
+.boxhili02{border-bottom:1px solid #7cc5e6;background-color:#def3fc}
+.boxhilicont01{padding:2px 5px}
+.bmenu{background-color:#ccb9e0;border-top:1px solid #775e97;padding:2px 5px}
+.head02 a.act2{font-weight:700;color:#333}
+.head02 a.act2:hover{background:none!important}
+.txtdiem span{font-weight:700;color:#d9680d}
+.amenu:hover,.act{background:#9f85bd}
+.tabnav3{margin-top:1px;background:#ccb9e0;border-bottom:1px solid #775e97;padding:2px 2px 1px}
+.tabnav3 a{color:#333;line-height:17px;padding:1px 2px}
+.curnav3{background-color:#fff;font-weight:700;border:1px solid #775e97;border-width:1px 1px 0}
+.mp3rank1{width:19px;height:42px;float:left;margin-right:5px}
+.official{background-color:#aeaeae;color:#fff;font-size:x-small;padding:0 3px}
+.hit{background-color:#be2593;color:#FFF;font-size:x-small;padding:0 3px}
+.bglyric{padding: 5px;background-color:#ebe3f5}
+.actlink,.attach,.mfz1,.mfz2,.txtdiem{font-size:small}
+#info,#blogdetail{padding:4px}
+.photolist,.photolist img{padding:2px}
+#event{background-color:#fff1ce;background-image:url(http://stc.mobile.zdn.vn/images/images_mobile/mp3/bg_junelove.gif); background-repeat:repeat-x;height:18px;padding-top:8px;font-weight:700;;border:none}
